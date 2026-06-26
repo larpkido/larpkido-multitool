@@ -112,6 +112,7 @@ Navi offers a variety of themes to suit your aesthetic, including the new **Mode
 2.  **Run Installation**
     - **Windows**: Just run `install.bat`
     - **Linux/macOS**: `pip install -r requirements.txt`
+    - **Arch Linux**: `python -m venv venv   |   source venv/bin/activate.fish   |   pip install -r requirements.txt`
 
 3.  **Launch**
     ```bash
