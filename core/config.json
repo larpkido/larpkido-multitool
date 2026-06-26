@@ -1,0 +1,10 @@
+{
+  "name": "Larpkido Multitool",
+  "version": "1.0.0",
+  "author": "gih",
+  "github": "https://discord.gg/larpkido",
+  "discord": "https://discord.gg/larpkido",
+  "theme": "red",
+  "auto_open_discord": true,
+  "auto_update": true
+}
